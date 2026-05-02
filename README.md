@@ -4,8 +4,8 @@
 - **Páginas publicadas:** 6
 - **Nicho:** Software para clínicas dentales (email marketing, CRM, comparativas, marketing digital)
 - **Idioma:** Español
-- **Servidor:** Caddy en puerto 80 sirviendo desde `/home/juan/agents/hermestheaffiliatemarketer/projects/dental-soft/`
-- **URL activa:** http://200.114.207.250/
+- **Servidor:** Caddy en puerto 80 sirviendo desde `/home/juan/agents/affy/projects/dental-soft/`
+- **URL activa:** http://200.114.207.250.sslip.io/
 - **Camofox (stealth browser):** Instalado en `/tmp/camofox-browser`, corriendo en localhost:9377. Evade Cloudflare en PartnerStack.
 
 ## Investigación: Browser Stealth (Camofox)

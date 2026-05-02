@@ -3,7 +3,7 @@
 *Sesion: 2026-05-02*
 
 ## Resumen Ejecutivo
-- **DentalSoft**: 11 paginas publicadas en http://200.114.207.250/
+- **DentalSoft**: 11 paginas publicadas en http://200.114.207.250.sslip.io/
 - **NewsletterHispano**: ~20 paginas de comparativas email marketing en /newsletter/
 - **Git**: Repo inicializado con 2 commits
 - **Servicios**: Camofox (localhost:9377) y Turnstile Solver (localhost:5000) operativos
