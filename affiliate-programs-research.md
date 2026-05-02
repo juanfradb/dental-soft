@@ -43,9 +43,22 @@
 6. **PRO Teeth Guard / Sentinel** - Content opportunity: bruxismo/night guards.
 7. **Nuyu / GLO SCIENCE** - Content opportunity: whitening kits for clinics.
 
+## ClickBank Dental Health Products (Instant Links After Signup)
+| Product | Vendor | EPC | APV | Conv. | Approval | Hoplink |
+|---------|--------|-----|-----|-------|----------|---------|
+| ProDentim | PRODENTIM | $1.25 | $137.53 | 0.91% | Open | `https://hop.clickbank.net/?affiliate=YOURNICK&vendor=PRODENTIM` |
+| ProvaDent | PROVADENT | $0.98 | $159.50 | 0.61% | Open | `https://hop.clickbank.net/?affiliate=YOURNICK&vendor=PROVADENT` |
+| Denticore | DENTICORE | $1.16 | $128.07 | 0.90% | Whitelist* | `https://hop.clickbank.net/?affiliate=YOURNICK&vendor=DENTICORE` |
+| PowerBite | POWERBITE | $0.89 | $136.89 | 0.65% | Apply** | `https://hop.clickbank.net/?affiliate=YOURNICK&vendor=POWERBITE` |
+| Dentitox | DENTITOX | $1.28 | $114.26 | 1.12% | Apply** | `https://hop.clickbank.net/?affiliate=YOURNICK&vendor=DENTITOX` |
+
+*Contact affiliates@denticore-product.com for whitelist.
+**Requires approval via ClickBank marketplace after account creation.
+
 ## Next Actions
 - [ ] Get professional email (custom domain or Gmail) to unblock all applications
-- [ ] Apply to Thalamus (direct, no CAPTCHA)
+- [ ] Apply to Thalamus (direct, has reCAPTCHA - may need manual/email)
 - [ ] Apply to PartnerStack programs via Camofox manual navigation or email outreach
+- [ ] Create ClickBank account (needs phone number + manual step)
 - [ ] Create content pages for high-priority dental products
 - [ ] Get custom domain for credibility and higher approval rates
