@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://200.114.207.250/sitemap.xml
