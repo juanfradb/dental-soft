@@ -4,7 +4,7 @@
 
 ## Resumen Ejecutivo
 - **DentalSoft**: 15 paginas publicadas en https://dentalsoft.surge.sh/
-- **Git**: Repo con 6 commits
+- **Git**: Repo con 10 commits
 - **Email**: jfdb@autreach.app (activo, usado para aplicaciones)
 
 ## Aplicaciones de Afiliados Enviadas
