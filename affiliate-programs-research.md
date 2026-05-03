@@ -3,7 +3,7 @@
 *Updated: 2026-05-02*
 
 ## Status
-- Site: http://200.114.207.250.sslip.io/ (6 pages live)
+- Site: https://juanfradb.github.io/dental-soft/ (6 pages live)
 - Blocker: No custom domain or professional email configured. PartnerStack applications require email + Turnstile CAPTCHA.
 - Turnstile solver: Working under xvfb but fails on real PartnerStack sitekey (domain-scoped tokens).
 - Camofox browser: Running on localhost:9377, can navigate PartnerStack but Submit button stays disabled (Turnstile not completing).

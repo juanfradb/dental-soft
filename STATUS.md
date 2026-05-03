@@ -3,7 +3,7 @@
 *Sesion: 2026-05-02*
 
 ## Resumen Ejecutivo
-- **DentalSoft**: 15 paginas publicadas en http://200.114.207.250.sslip.io/
+- **DentalSoft**: 15 paginas publicadas en https://juanfradb.github.io/dental-soft/
 - **Git**: Repo con 6 commits
 - **Email**: jfdb@autreach.app (activo, usado para aplicaciones)
 
